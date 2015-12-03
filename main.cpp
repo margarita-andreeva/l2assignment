@@ -11,5 +11,6 @@ void main() {
 	cout << "please input y" << endl;
 	cin >> y;
 
-	cout << "x: " << x << "y: " << y;		
+	cout << "x: " << x << "\ty: " << y << endl ;		
+	cout << "x + y: " << x + y << endl;
 }

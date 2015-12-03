@@ -13,4 +13,5 @@ void main() {
 
 	cout << "x: " << x << "\ty: " << y << endl ;		
 	cout << "x + y: " << x + y << endl;
+	cout << "x - y: " << x - y << endl;
 }

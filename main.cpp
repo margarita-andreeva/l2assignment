@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// учебная функция
 void main() {
 	int x, y;
 
